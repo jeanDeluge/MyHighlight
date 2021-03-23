@@ -1,0 +1,33 @@
+@font-face  {
+    font-family: 'Nanum Myeongjo';
+    font-weight: 400;
+    src: url("../font/NanumMyeongjo-Regular.ttf");
+}
+
+@font-face  {
+    font-family: 'Nanum Myeongjo';
+    font-weight: 700;
+    src: url("../font/NanumMyeongjo-Bold.ttf");
+}
+@font-face  {
+    font-family: 'Nanum Myeongjo';
+    font-weight: 800;
+    src: url("../font/NanumMyeongjo-ExtraBold.ttf");
+}
+
+@font-face  {
+    font-family: 'Nanum Gothic';
+    font-weight: 400;
+    src: url("../font/NanumMyeongjo-Regular.ttf");
+}
+
+@font-face  {
+    font-family: 'Nanum Myeongjo';
+    font-weight: 700;
+    src: url("../font/NanumGothic-Bold.ttf");
+}
+@font-face  {
+    font-family: 'Nanum Myeongjo';
+    font-weight: 800;
+    src: url("../font/NanumGothic-ExtraBold.ttf");
+}
