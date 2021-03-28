@@ -8,16 +8,15 @@
  * @format
  */
 
-import React from 'react';
+import React , { Component }from 'react';
 import {View, Text} from 'react-native';
-import {} from ''
-import settingPage from './src/component/settingPage/setting';
-
+import { MainPage } from './src/component/MainPage/MainPage';
+ß
 const App = () => {
   return (
     <View>
       <Text>Hello! React Native</Text>
     </View>
   );
-};
+}
 export default App;
